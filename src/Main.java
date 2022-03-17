@@ -29,6 +29,7 @@ public class Main {
             int m=55;
             int n=9;
         System.out.println("(55+9)%9="+ (a+b)%b);
+        int u=125;
 
 //4. Printati rezultatul urmatoarelor operatiuni:
 //
